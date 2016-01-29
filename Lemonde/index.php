@@ -33,7 +33,7 @@ and open the template in the editor.
     </div>
     
     <div id="foot">
-        <p> Le Monde tecnologia </p>
+        <p> Le Monde tecnologia - 2016 </p>
     </div>
     
     <div id="esquerda">
