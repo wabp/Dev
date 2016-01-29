@@ -19,8 +19,8 @@
 
   </div>
 <ul class="bandeiras">
-<li><a href="http://cliente.isbrasil.info/crstands/site2/index.php"><img src="template/img/brasil.jpg" width="25" height="20" /></a></li>
-<li><a href="http://cliente.isbrasil.info/crstands/site2/espanhol/index.php"><img src="template/img/espanho.jpg" width="24" height="20" /></a></li>
+<li><a href="../index.php"><img src="template/img/brasil.jpg" width="25" height="20" /></a></li>
+<li><a href="../espanhol/index.php"><img src="template/img/espanho.jpg" width="24" height="20" /></a></li>
 <li><a href="index.php"><img src="template/img/ingles.jpg" width="25" height="20" /></a></li>
 
 </ul>
