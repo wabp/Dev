@@ -1,0 +1,51 @@
+.btn{
+  font-family: arial;
+  font-size:14px;
+  font-weight:700;
+  text-transform: uppercase;
+  border:navy;
+  padding:15px;
+  
+}
+
+.btn-green{
+  background:green;
+  color:#fff;
+  margin-top: 4%;
+  margin-left: -20%;
+}
+
+.btn-green:hover {
+  background:#006000;
+}
+
+.btn-purple{
+  background:purple;
+  color:#fff;
+  
+}
+
+.btn-purple:hover{
+  background:#670167;
+}
+.btn-red{
+  background:red;
+  color:#fff;
+  
+}
+.btn-red:hover{
+  background:#d20000;
+}
+
+.btn-blue{
+  background:blue;
+  color: #fff;
+  
+}
+.btn-blue:hover{
+  background: darkblue;
+}
+.btn-green:active, .btn-purple:active, .btn-red:active, .btn-blue:active{
+  position: relative ;
+ 
+}

@@ -1,0 +1,49 @@
+@font-face {
+	font-family: "Globo";
+	src: url("../fonte/vag.otf");
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+body {
+	font-size: 12px;
+	color: #666;
+	font-family: Arial, Helvetica, sans-serif;
+}
+p {
+	margin-top: 10px;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+#all {
+	position: relative;
+	margin: auto;
+	height: auto;
+	width: 80%;
+}
+#cabecalho {
+	font: 30px Globo;
+	position: relative;
+	width: 100%;
+	padding:2px;
+	top: -18px;
+}
+#conteudo {
+	font: 15px Globo;
+	width: 100%;
+	padding: 2px;
+}
+#links {
+	font: 15px Globo;
+	width: 100%;
+        padding: 2px;
+}
+#rodape {
+	height: 75px;
+	width: auto;
+}

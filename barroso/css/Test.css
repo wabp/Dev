@@ -1,0 +1,49 @@
+#botoes {
+    width: 100%;
+    height: 8%;
+    background-color: lightblue;
+    padding-left: auto;
+    position: absolute;
+}
+#botao1 {
+
+    width: 10%;
+    height: auto;
+    margin-left: 10%;
+    background-color: azure;
+    float: left;
+}
+#botao2 {
+    width: 10%;
+    height: 3%;
+    background-color: azure;
+    float: left;
+}
+#botao3 {
+
+    width: 10%;
+    height: auto;
+    background-color: azure;
+    float: left;
+}
+#botao4 {
+
+    width: 10%;
+    height: auto;
+    background-color: azure;
+    float: left;
+}
+#botao5 {
+
+    width: 10%;
+    height: auto;
+    background-color: azure;
+    float: left;
+}
+#botao6 {
+
+    width: 15%;
+    height: auto;
+    background-color: azure;
+    float: left;
+}

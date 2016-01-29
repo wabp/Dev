@@ -1,0 +1,53 @@
+#produtos {
+    width: 100%;
+    height: 8%;
+    background-color: lightblue;
+    
+}
+#produto1 {
+
+    width: 12%;
+    height: 10%;
+    margin-left: 14%;
+    background-color: azure;
+    float: left;
+}
+#produto2 {
+    width: 12%;
+    height: 10%;
+    margin-left: 3%;
+    background-color: azure;
+    float: left;
+}
+#produto3 {
+
+    width: 12%;
+    height: 10%;
+    margin-left: 3%;
+    background-color: azure;
+    float: left;
+}
+#produto4 {
+
+    width: 12%;
+    height: 10%;
+    margin-left: 3%;
+    background-color: azure;
+    float: left;
+}
+#produto5 {
+
+    width: 12%;
+    height: 10%;
+    margin-left: 3%;
+    background-color: azure;
+    float: left;
+}
+#produto6 {
+
+    width: 12%;
+    height: 10%;
+    margin-left: 3%;
+    background-color: azure;
+    float: left;
+}
